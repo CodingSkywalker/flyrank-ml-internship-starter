@@ -1,6 +1,6 @@
 # Week 1 Workflow Audit
 
-## 📊 Task Audit Table
+## Task Audit Table
 
 | Task | Classification | One-Line Rationale |
 | :--- | :--- | :--- |
@@ -17,7 +17,7 @@
 | 11. Planning my weekly study and work schedule | Collaborate with AI | I can feed AI my deadlines and shift times, and it can suggest a realistic block-based calendar to keep me balanced. |
 | 12. Drafting status updates for the InternHQ board | Collaborate with AI | AI helps me polish my informal thoughts into professional, clear updates that keep my project mentors happy. |
 
-## 🎯 Target Tasks & Success Definitions
+## Target Tasks
 
 ### Task 1: Troubleshooting Coding Errors (Collaborate with AI)
 * **What Success Looks Like:** I use Claude to explain why the error occurred, understand the fix, and resolve the bug in under 5 minutes without breaking other parts of my notebook. 
